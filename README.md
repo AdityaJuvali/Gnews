@@ -1,0 +1,2 @@
+# Gnews
+Google news API
