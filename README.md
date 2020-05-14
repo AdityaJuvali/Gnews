@@ -13,7 +13,7 @@ End date = String date in 'YYYY-MM-DD'. Example, 2020-05-14
 
 Output: In python List type with 10 weblinks.
 
-### Application: 
+### Usage: 
 Sentiment analysis of news articles related to a topic in correlation to economic entities like share/stock market.
 
 ##### @Author : Aditya Juvali
